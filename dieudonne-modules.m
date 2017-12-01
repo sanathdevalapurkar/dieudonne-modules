@@ -2,11 +2,6 @@
  * and prime. Trivial modifications to this code  allow one to check whether
  * there is a curve has a certain final type/mod p Dieudonn'e module. */
 
-/* The reader is referred to Devalapurkar-Halliday, "The Dieudonn'e modules and
- * Ekedahl-Oort types of Jacobians of hyperelliptic curves in odd
- * characteristic", for an explanation of where the formulae in this code come
- * from. */
-
 deg := [];
 
 /* Here, 7 is the degree up to which we are counting the number of curves
